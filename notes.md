@@ -5,3 +5,8 @@
   166  git remote add origin https://github.com/timpec/gitIntroTask.git
   168  git push origin master
   169  history
+  170  git commit
+  171  git add .
+  172  git commit -m "History of commands"
+  173  git push origin master
+
